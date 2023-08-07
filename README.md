@@ -26,7 +26,7 @@
 <div>
 <h2> Installation</h2>
   <p>Follow these steps to get the app up and running on your local machine.</p>
-  <ul>
+  <ol>
     <li>
      <h3>Clone the repository:</h3>
       <p>
@@ -61,7 +61,7 @@ For Android, run npm run android or yarn android.
       </p>
     </li>
    
-  </ul>
+  </ol>
 </div>
 <hr/>
 <div>
