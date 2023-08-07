@@ -23,8 +23,8 @@
   <hr/> 
 </div>
 
-<h2> Installation</h2>
 <div>
+<h2> Installation</h2>
   <p>Follow these steps to get the app up and running on your local machine.</p>
   <ul>
     <li>
